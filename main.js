@@ -32,7 +32,7 @@ var floaties_3 = new Image();
 var layer_list = [
 	{
 		'image': background,
-		'src': './images/layer_1_1.png',
+		'src': '36CE6113-43ED-4BB6-99CD-2186DD1784C4.png',
 		'z_index': -2.25,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -40,7 +40,7 @@ var layer_list = [
 	},
 	{
 		'image': clouds,
-		'src': './images/layer_2_1.png',
+		'src': 'A8D5D260-6BFE-4B56-A929-046CB9A0F5C4.png',
 		'z_index': -2,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -48,7 +48,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_1,
-		'src': './images/layer_3_1.png',
+		'src': 'A851EF01-F013-4925-94F2-8DE5C56B441A.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
 		'blend': 'overlay',
@@ -56,7 +56,10 @@ var layer_list = [
 	},
 	{
 		'image': floaties_2,
-		'src': './images/layer_4_1.png',
+		'src': 'A851EF01-F013-4925-94F2-8DE5C56B441A.png
+Go to file
+
+',
 		'z_index': -0.5,
 		'position': {x: 0, y: 0},
 		'blend': 'overlay',
@@ -64,7 +67,10 @@ var layer_list = [
 	},
 	{
 		'image': shadows,
-		'src': './images/layer_5_1.png',
+		'src': 'A851EF01-F013-4925-94F2-8DE5C56B441A.png
+Go to file
+
+',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
 		'blend': 'multiply',
@@ -72,7 +78,7 @@ var layer_list = [
 	},
 	{
 		'image': mask,
-		'src': './images/layer_6_1.png',
+		'src': '9399C893-CDDE-4EC4-8C9B-2DC7EE61988D.png',
 		'z_index': 0,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -80,7 +86,10 @@ var layer_list = [
 	},
 	{
 		'image': humans,
-		'src': './images/layer_7_1.png',
+		'src': 'C44E4AA3-8A6F-4FCF-B162-4CB68B7EC08B.png
+Go to file
+
+',
 		'z_index': 0.8,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -88,7 +97,10 @@ var layer_list = [
 	},
 	{
 		'image': floaties_3,
-		'src': './images/layer_8_1.png',
+		'src': '386482E3-592C-40C4-86B6-AC4290F51EB2.png
+Go to file
+
+',
 		'z_index': 2,
 		'position': {x: 0, y: 0},
 		'blend': null,
