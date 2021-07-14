@@ -32,7 +32,7 @@ var floaties_3 = new Image();
 var layer_list = [
 	{
 		'image': background,
-		'src': '36CE6113-43ED-4BB6-99CD-2186DD1784C4.png',
+		'src': '6D949AE5-8ADF-4711-9E44-61D24C564809.png',
 		'z_index': -2.25,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -40,7 +40,7 @@ var layer_list = [
 	},
 	{
 		'image': clouds,
-		'src': 'A8D5D260-6BFE-4B56-A929-046CB9A0F5C4.png',
+		'src': '6D949AE5-8ADF-4711-9E44-61D24C564809.png',
 		'z_index': -2,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -48,7 +48,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_1,
-		'src': 'A851EF01-F013-4925-94F2-8DE5C56B441A.png',
+		'src': '6D949AE5-8ADF-4711-9E44-61D24C564809.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
 		'blend': 'overlay',
@@ -56,7 +56,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_2,
-		'src': 'A851EF01-F013-4925-94F2-8DE5C56B441A.png
+		'src': '6D949AE5-8ADF-4711-9E44-61D24C564809.png'
 Go to file
 
 ',
@@ -67,7 +67,7 @@ Go to file
 	},
 	{
 		'image': shadows,
-		'src': 'A851EF01-F013-4925-94F2-8DE5C56B441A.png
+		'src': '6D949AE5-8ADF-4711-9E44-61D24C564809.png'
 Go to file
 
 ',
@@ -78,7 +78,7 @@ Go to file
 	},
 	{
 		'image': mask,
-		'src': '9399C893-CDDE-4EC4-8C9B-2DC7EE61988D.png',
+		'src': '6D949AE5-8ADF-4711-9E44-61D24C564809.png',
 		'z_index': 0,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -86,7 +86,7 @@ Go to file
 	},
 	{
 		'image': humans,
-		'src': 'C44E4AA3-8A6F-4FCF-B162-4CB68B7EC08B.png
+		'src': '6D949AE5-8ADF-4711-9E44-61D24C564809.png'
 Go to file
 
 ',
@@ -97,7 +97,7 @@ Go to file
 	},
 	{
 		'image': floaties_3,
-		'src': '386482E3-592C-40C4-86B6-AC4290F51EB2.png
+		'src': '6D949AE5-8ADF-4711-9E44-61D24C564809.png'
 Go to file
 
 ',
